@@ -6,3 +6,12 @@ While traditional methods focus on pairwise interactions, realworld networks of
 ## Method Overview
 ![ccc_00](https://github.com/user-attachments/assets/c3d7bd7f-0d81-4f6a-aba7-ae4c9492ac67)
 Figure：Overall framework of SSFL for link prediction.
+## Citing
+If you find MCAS useful in your research, please consider citing the following paper：
+'@article{yao2025subgraph,
+  title={Subgraph Structure Feature Learning for Triangle Clique Prediction in Complex Networks},
+  author={Yao, Yabing and Mao, Zhiheng and He, Yangyang and Xu, Zhipeng and Ti, Ziyu and Guo, Pingxia and Nian, Fuzhong and Ma, Ning},
+  journal={IEEE Transactions on Network Science and Engineering},
+  year={2025},
+  publisher={IEEE}
+}'
