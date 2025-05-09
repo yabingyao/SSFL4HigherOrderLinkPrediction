@@ -14,6 +14,8 @@ If you find MCAS useful in your research, please consider citing the following p
   author={Yao, Yabing and Mao, Zhiheng and He, Yangyang and Xu, Zhipeng and Ti, Ziyu and Guo, Pingxia and Nian, Fuzhong and Ma, Ning},
   journal={IEEE Transactions on Network Science and Engineering},
   year={2025},
-  publisher={IEEE}
+  publisher={IEEE},
+  doi={10.1109/TNSE.2025.3566227},
+  url={https://ieeexplore.ieee.org/document/10985838}
 }
-
+```
